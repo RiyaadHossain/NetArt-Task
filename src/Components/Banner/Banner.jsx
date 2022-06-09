@@ -5,7 +5,7 @@ import "./Banner.css";
 
 const Banner = () => {
   return (
-    <div className="banner-div">
+    <div className="banner">
       <div className="banner-img">
         <img src={Award} alt="" />
       </div>

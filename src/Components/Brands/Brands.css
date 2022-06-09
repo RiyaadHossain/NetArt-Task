@@ -1,0 +1,19 @@
+.brand{
+    padding: 80px 2%;
+}
+.img-container{
+    text-align: center;
+}
+.brand-img{
+    max-width: 90%;
+    margin: 0 auto;
+}
+.divider{
+    height: 2px;
+    max-width: 90%;
+    margin: 25px auto;
+    background-color: rgb(230, 38, 38);
+}
+.red-bar{
+    color: red;
+}
