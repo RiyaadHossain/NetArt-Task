@@ -3,7 +3,7 @@ import Landing from './Pages/Landing';
 
 function App() {
   return (
-    <div>
+    <div className='main-page'>
       <Landing/>
     </div>
   );

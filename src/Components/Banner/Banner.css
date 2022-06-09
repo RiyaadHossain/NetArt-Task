@@ -1,0 +1,17 @@
+.banner-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.banner-img {
+  width: 50%;
+}
+.banner-img img{
+    max-width: 500px;
+}
+.banner-text {
+  width: 50%;
+}
+.banner-text ul{
+    margin: 10px 0 25px 18px;
+}
